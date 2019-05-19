@@ -1,6 +1,6 @@
-# LinearRegression
+# Marchine Learning
 Un modèle de régression linéaire est un modèle de régression qui cherche à établir une relation linéaire entre une variable et une ou plusieurs variables de type: ax
-## Prérequis
+### Prérequis
 Pour faire fonctionner ce programme il vous faut:
 numpy
 sklearn
