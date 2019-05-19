@@ -12,7 +12,13 @@ pip install numpy
 pip install sklearn
 pip install matplotlib
 ```
+## DecisionTree.py
+
 ![](images/DecisionTree.PNG)
+
+## LogisticRegression.py
+
+![](images/LogisticRegression.PNG)
 
 ## LinearRegression.py
 Lancer le script:
