@@ -55,4 +55,6 @@ y 4 :n
 y:  [0.0, 15.0, 26.0, 35.0]
 ```
 
-Le programme va vous montrer le resultat en graphique est en affichant le coefficient a
+Le programme va vous montrer le resultat en graphique est en affichant le coefficient a.
+
+![](images/LinearRegression.PNG)
