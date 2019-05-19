@@ -12,7 +12,7 @@ pip install numpy
 pip install sklearn
 pip install matplotlib
 ```
-![](test.png)
+![](images/DecisionTree.PNG)
 
 ## LinearRegression.py
 Lancer le script:
