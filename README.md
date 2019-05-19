@@ -13,6 +13,7 @@ pip install sklearn
 pip install matplotlib
 ```
 ![Screenshot](test.png)
+
 ## LinearRegression.py
 Lancer le script:
 ```
